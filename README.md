@@ -38,20 +38,35 @@ Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
 
+![expt1](https://github.com/user-attachments/assets/8684370b-84b0-4f11-b6bf-64f3ff2a9e51)
+
+
 **Procedure**
 
 Write the detailed procedure here
 
 **Program:**
 
-/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
-*/
+/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by:E subash Miracle raj RegisterNumber:24000572
 
+![exp4p1](https://github.com/user-attachments/assets/59df2c09-15ac-47cd-9697-21e04ca9564d)
+
+*/
+name:Ashwath 
+reg:24006224
 **RTL Schematic**
+
+![exp4l1](https://github.com/user-attachments/assets/9686431f-12d2-4067-a1a7-125c4a590e45)
+
 
 **Output Timing Waveform**
 
+![exp4w1](https://github.com/user-attachments/assets/f548c3e6-e06b-4edd-b893-769563daa482)
+
+
 **Result:**
+
+the full adder and full subtractor circuits are designed and verified using quartus 
 
 Thus the Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software.
 
